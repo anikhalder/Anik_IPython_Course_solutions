@@ -1,3 +1,3 @@
 # Anik_IPython_Course_solutions
 
-Solutions to Robitaille's IPython course
+Solutions to Thomas Robitaille's IPython course
